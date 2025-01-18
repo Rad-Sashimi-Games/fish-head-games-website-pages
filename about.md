@@ -3,6 +3,7 @@ title: About Fish Head Games
 description: Learn About Fish Head Games
 pubDate: 2025-01-18
 ---
+
 Fish Head Games is an indie game development studio that kicked off in December 2024. The team gathered with the purpose of making **Lonnies Fishtank** a new cozy game that takes inspiration from the likes of Nintendogs and Wobbledogs to create a fun, and curious fish tank simulation experience.
 
 The teams objective is to produce a high quality cozy game experience for others that relives and explores several of the highlights from old nostalgic games of the Y2K time period and classic Nintendo inspired aesthetics. 
@@ -16,3 +17,11 @@ The teams objective is to produce a high quality cozy game experience for others
 **Noah (Trout In The Machine)** creates well crafted gameplay mechanics to ensure the quality and consistency of fish movements, behaviors, and interactions.
 
 **Osaze (Oz)** works on the main gameplay systems and brings several mechanics together through Unity to help realize the ultimate execution of the game.
+
+# Team
+
+- Adrian Smith (Lost Beach Boy)
+- Ashley (Pixel Tiger)
+- Emily (Sleep After Death)
+- Noah (Trout In The Machine)
+- Osaze Shears (Oz)
