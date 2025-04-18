@@ -45,7 +45,7 @@ The title screen of the game opens up with a menu overlayed on top a camera that
 The following menu options are initially available to the player:
 - **Check out your fish**: this option starts the game and allows the player full control over the scene in a smooth transition.
 - **Settings:** this option gives the player the chance to configure some settings about the game, including controls, and audio levels.
-- **Credits:** this option gives the player a chance to see the rolling credits and attribution for the game with information about the Fish Head Games team, as well as any third party attribution that is required.
+- **Credits:** this option gives the player a chance to see the rolling credits and attribution for the game with information about the Rad Sashimi Games team, as well as any third party attribution that is required.
 
 #### Settings Menu
 - Gameplay: 
