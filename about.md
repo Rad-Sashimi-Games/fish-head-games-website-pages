@@ -14,8 +14,11 @@ The teams objective is to produce a high quality cozy game experience for others
 
 **Osaze (Oz)** works on the main gameplay systems and brings several mechanics together through Unity to help realize the ultimate execution of the game.
 
+**Noah (Trout In The Machine)** creates well crafted gameplay mechanics to ensure the quality and consistency of fish movements, behaviors, and interactions.
+
 # Team
 
 - Adrian Smith (Lost Beach Boy)
 - Ashley (Pixel Tiger)
 - Osaze Shears (Oz)
+- Char
