@@ -21,4 +21,5 @@ The teams objective is to produce a high quality cozy game experience for others
 - Adrian Smith (Lost Beach Boy)
 - Ashley (Pixel Tiger)
 - Osaze Shears (Oz)
+- Noah (Trout In The Machine)
 - Char
